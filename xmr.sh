@@ -8,6 +8,7 @@ sudo add-apt-repository multiverse
 sudo apt-get update
 sudo apt install ocl-icd-opencl-dev -y
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+
 sudo apt update
 sudo apt install gcc-5 -y
 sudo apt install g++-5 -y 
