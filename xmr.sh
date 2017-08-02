@@ -1,7 +1,6 @@
 #!/bin/bash
 su-
 apt-get install software-properties-common -y
-sudo apt-get install git -y
 sudo add-apt-repository main
 sudo add-apt-repository universe
 sudo add-apt-repository restricted
