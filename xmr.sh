@@ -1,5 +1,4 @@
 #!/bin/bash
-su -
 apt-get install software-properties-common -y
 sudo add-apt-repository main
 sudo add-apt-repository universe
